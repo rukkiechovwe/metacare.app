@@ -1,7 +1,7 @@
 # METACARE DASHBOARD DESIGN
 
 [Preview Demo](https://rukkies-ecommerce.netlify.app/)
-<img src="https://raw.githubusercontent.com/rukkiechovwe/metacare/main/screenshots/ss.png"/>
+<img src="https://raw.githubusercontent.com/rukkiechovwe/metacare.app/main/screenshots/ss.png"/>
 
 ## Getting Started
 - clone this repository
